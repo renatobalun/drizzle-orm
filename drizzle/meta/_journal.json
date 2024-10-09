@@ -36,6 +36,34 @@
       "when": 1728027914520,
       "tag": "0004_elite_shinko_yamashiro",
       "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1728468962110,
+      "tag": "0005_modern_blazing_skull",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1728470754256,
+      "tag": "0006_clean_captain_flint",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1728470843552,
+      "tag": "0007_grey_miek",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1728477108351,
+      "tag": "0008_mysterious_red_shift",
+      "breakpoints": true
     }
   ]
 }
